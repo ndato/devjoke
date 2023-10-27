@@ -948,6 +948,10 @@ Q: How do you scare a Python Programmer?
 
 A: Semicolons.
 
+Q: How do you scare a PERL Developer?
+
+A: You can't scare something that doesn't exist.
+
 ***
 
 ![Assembly](./images/assembly_pointers.png)
