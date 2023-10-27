@@ -938,6 +938,18 @@ But they won't give me the source code.
 
 ***
 
+### Halloween Special
+
+Q: How do you scare a C Programmer?
+
+A: Segmentation Fault.
+
+Q: How do you scare a Python Programmer?
+
+A: Semicolons.
+
+***
+
 ![Assembly](./images/assembly_pointers.png)
 
 ***
